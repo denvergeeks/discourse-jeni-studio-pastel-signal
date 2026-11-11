@@ -1,0 +1,17 @@
+.topic-list,
+.category-list,
+.topic-body,
+.topic-avatar {
+  background-color: var(--t-JeniStudioPastelSignal-color-background-raised);
+}
+
+.topic-list,
+.category-list {
+  border: 1px solid var(--t-JeniStudioPastelSignal-color-border);
+  border-radius: var(--d-border-radius-large);
+  box-shadow: var(--t-JeniStudioPastelSignal-shadow-raised);
+}
+
+.d-header {
+  box-shadow: var(--t-JeniStudioPastelSignal-shadow-raised);
+}

@@ -1,0 +1,5 @@
+en:
+  theme_metadata:
+    description: "Experimental pastel waveform theme with readable panels."
+    settings:
+      background_image: "Upload space-bling-bg-opacity-20.jpg or another background image."

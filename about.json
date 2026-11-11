@@ -1,0 +1,34 @@
+{
+  "name": "JENI Studio Pastel Signal",
+  "component": false,
+  "authors": "denvergeeks",
+  "about_url": "https://github.com/denvergeeks/discourse-jeni-studio-pastel-signal",
+  "theme_version": "0.1.0",
+  "assets": {},
+  "color_schemes": {
+    "Pastel Signal Light": {
+      "primary": "303044",
+      "secondary": "ffffff",
+      "tertiary": "5755a6",
+      "quaternary": "a85e83",
+      "header_background": "ffffff",
+      "header_primary": "303044",
+      "highlight": "fff0ce",
+      "danger": "b52f46",
+      "success": "28754d",
+      "love": "a83d73"
+    },
+    "Pastel Signal Dark": {
+      "primary": "e6e5ef",
+      "secondary": "20202c",
+      "tertiary": "b8b4ff",
+      "quaternary": "f0b0ce",
+      "header_background": "20202c",
+      "header_primary": "e6e5ef",
+      "highlight": "665432",
+      "danger": "ff8c9d",
+      "success": "86d7ac",
+      "love": "f49ac2"
+    }
+  }
+}

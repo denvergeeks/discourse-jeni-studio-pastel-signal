@@ -1,0 +1,10 @@
+body {
+  background-color: var(--t-JeniStudioPastelSignal-color-background);
+
+  @if $background_image != "" {
+    background-image: url("#{$background_image}");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
